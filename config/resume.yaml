@@ -1,0 +1,132 @@
+personal_info:
+  name: Joseph Joel, MSc
+  email: josephjoel3099@gmail.com
+  phone: +44 7767952880
+  location: Glasgow, United Kingdom, G20 6AX
+
+work_experience:
+  - company: Kingdom Technologies
+    role: Software Engineer (Robotics)
+    duration: July 2024 - Present
+    responsibilities:
+      - Developed robot navigation and recovery behaviours using Python and ROS.
+      - Collaborated with the team to develop the state machine for the robot and integration with hardware components through software interfaces.
+      - Developed a digital twin of the robot to simulate and validate navigation controllers and state machine behaviour under various fault conditions and hardware malfunction scenarios.
+      - Tuned navigation system parameters through iterative trial runs and performance analysis.
+      - Conducted experiments to verify alignment of hardware and software with product safety compliance directives, ensuring the robot met regulatory standards for market readiness.
+      - Designed and implemented a DevOps pipeline for seamless software deployment across the robot fleet.
+
+  - company: University of Glasgow
+    role: Graduate Teaching Assistant
+    duration: August 2023 - September 2023
+    responsibilities:
+      - Developed additional tutorial materials to enhance understanding of Robotics concepts.
+      - Tailored tutorials to align with the curriculum and course objectives.
+      - Provided support to students in understanding Python programming for Robotics applications.
+      - Collaborated with faculty to ensure tutorial materials met academic standards.
+
+  - company: Coboticca Automation Pvt. Ltd
+    role: Software Engineer (Robotics)
+    duration: June 2021 - December 2021
+    responsibilities:
+      - Developed a robotic navigation control system using Python and ROS.
+      - Optimized system parameters through iterative trial runs and performance analysis.
+      - Collaborated with elevator companies to integrate the robot to have wireless access to elevator controls.
+      - Quickly learned and integrated AWS for multi-robot fleet deployment and commissioning.
+      - Presented proof-of-concept demonstrations to potential clients and investors to attract funding and traction for the product.
+      - Accelerated company growth from concept stage to hardware showcases and on-site testing within six months.
+      - Prepared technical documentation for both internal and external stakeholders.
+
+education:
+  - institution: University of Glasgow
+    degree: Master of Science - Robotics & AI
+    classification: With Merit
+    duration: September 2022 - September 2023
+
+  - institution: SRM Institute of Science and Technology
+    degree: Bachelor of Technology - Mechatronics Engineering
+    cgpa: 8.20/10 (85.75%)
+    classification: First Class with Distinction
+    duration: July 2017 - May 2021
+
+projects:
+  - title: Probabilistic Model Checking to Increase Navigation Resilience with Jackal Robot
+    type: MSc Final Project
+    duration: May 2021 - August 2021
+    objective: To investigate how PMC can improve mission success rate of autonomous robot fleets operating in challenging and stochastic environments.
+    work:
+      - Developed a digital twin of multi-robot fleet assisting in transporting material in a warehouse scenario using Python and ROS.
+      - Implemented probabilistic algorithm and tested the impact on how it improved mission success of multi-robot fleet system used in warehouses.
+      - Researched stochastic robot parameters and analysed probabilistic algorithms for modelling.
+      - Collaborated with project team members to gather feedback on robot behaviour and parameters.
+      - Learned and utilized PRISM for modelling stochastic parameters.
+      - Conducted a comprehensive literature review to identify the best probabilistic modelling algorithm for robotic parameters.
+      - Prepared detailed project documentation, covering implementation steps and research insights.
+      - Managed project timelines, bill of materials, and risk assessments.
+    links:
+      - YouTube: https://www.youtube.com/watch?v=MjU5PTl1hEw
+
+  - title: Development of a Collaborative Multi-Robot System for Material Handling
+    type: BTech Final Project
+    duration: January 2021 - March 2021
+    objective: To show that mobile robots can collaborate with each other to move material from one place to another in an industrial arena.
+    work:
+      - Used Python to design and implement a navigational control system for omnidirectional holonomic robot.
+      - Metrics were collected from trials to test and validate the control system and to measure performance.
+      - Collaborated with teammates to design, prototype and build the robots within the project timeline.
+      - Integrated IoT systems which included a mobile app and a web interface to manage and control the robots.
+      - Project management included preparing detailed project timeline, bill of materials and risk assessment.
+      - Detailed project documentation was prepared involving all the steps taken to complete the project and insights on the research done.
+    links:
+      - Publication: https://clawar.org/wp-content/uploads/2023/02/rane4.pdf
+
+  - title: FABY - Telepresence Robot
+    type: University Funded Project
+    duration: November 2019 - March 2021
+    objective: To make a telepresence robot to assist students using the university fabrication lab.
+    work:
+      - Implemented the robot's navigational control system using Python and ROS, learning ROS fundamentals rapidly to meet project timelines.
+      - Tuned navigation system parameters through iterative trial runs and performance analysis to optimize robot behaviour.
+      - Integrated sensors and actuators with extensive troubleshooting and testing to ensure reliable hardware-software interaction.
+      - Collaborated with the team to package and commission the robot for deployment.
+      - Created comprehensive project documentation outlining each stage of development.
+      - Presented the project to a panel of investors, effectively demonstrating its technical viability and commercial potential, which contributed to securing funding.
+
+publications:
+  - title: Composite Robot Algorithm and Multi-Robot Formation Strategy for Collaborative Material Handling Systems
+    event: 3rd International Conference on Robotics Automation and Non-Destructive Evaluation (RANE)
+    date: April 2022
+
+awards_and_recognition:
+  - event: BIT Sindri, Model Club
+    achievement: 3rd Place in Nav Ujjwal E-Innovation National Hackathon
+    date: August 2020
+  - event: Dassault Systems, Aaruush'20
+    achievement: Participation in International Online Design Challenge
+    date: July 2020
+  - event: Valeo, SRM IET
+    achievement: 1st Place in Mechathon
+    date: February 2020
+  - event: Dassault Systems
+    achievement: Participation in AAKRUTI 2019
+    date: November 2019
+
+certifications:
+  - title: Certified SolidWorks Associate
+    organization: Dassault Systems
+    date: July 2020
+
+other_experiences:
+  - organization: The Institute of Engineers
+    role: Member, SRM-KTR Student Chapter
+    duration: October 2018 - Present
+  - event: Neural Networks and Deep Learning Workshop
+    department: Mechatronics Engineering Dept.
+    date: September 2019
+
+skills:
+  - Proficient with Altium, EasyEDA for circuit board design, Simulink, MATLAB, ROS simulation, C++, Python for programming, SolidWorks, Fusion 360 for mechanical design.
+  - Can quickly learn new software to complete projects and currently exploring Nvidia Isaac Sim, ROS 2, Protégé.
+  - Experience in presenting projects to clients and securing funds.
+  - Experience in collaborating with external companies and working as a team to complete projects.
+
